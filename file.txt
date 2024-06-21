@@ -1,7 +1,0 @@
-This is Repo Created for Git Practical for Devops
-This is content written after 1st Commit
-adding some content to existing files
-This is Repo Created for Git Practical for Devops
-This is content written aftr 2nd commit
-This is content written aftr 2nd commit
-hi
